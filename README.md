@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ParhamHUB
+- 👋 Hi, I’m Parham
 - 👀 I’m interested in desktop apps
 - 🌱 I’m currently learning C#
 - 📫 How to reach me ir.parham83@gmail.com
